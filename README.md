@@ -1,2 +1,2 @@
 # Programming-topics
-Brief guides about programmoing topics
+Brief guides about programming topics
